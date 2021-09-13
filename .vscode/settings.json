@@ -1,0 +1,7 @@
+{
+    "eslint.enable": false,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.preferences.useAliasesForRenames": false,
+    "prettier.printWidth": 120
+}
